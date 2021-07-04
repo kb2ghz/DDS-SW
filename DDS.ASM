@@ -1,6 +1,6 @@
 ; TTL Logic Based Direct Digital Synthesis (DDS)
 ; Mike McCann KB2GHZ
-; 2020 TAPR/DCC
+; 2021 TAPR/DCC
 ;
 		PROCESSOR	16F628A
 		INCLUDE		<p16f628a.inc>

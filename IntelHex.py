@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # TTL Logic Based Direct Digital Synthesis (DDS)
-# 2020 TAPR/ARRL DCC Conference
+# 2021 TAPR/ARRL DCC Conference
 # Mike McCann KB2GHZ
 
 import sys
