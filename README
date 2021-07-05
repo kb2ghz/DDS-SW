@@ -1,0 +1,18 @@
+# DDS-SW
+Firmware and Support Utilities for the DDS
+This git repo documents the firmware for the Microchip PIC16F628A-IP
+micro-controller used to to control the TTL DDS. The firmware is written
+in assembler language that is assembled with the public domain PIC
+assembler assembler (gpasm). On Debian based systems this assembler can
+be installed using: apt install gputils.
+
+File            Description
+----            -----------
+DDS.ASM         firmware's source code
+DDS.lst         assembled firmware listing
+DDS.hex         Intel Hex Image for device
+freqcalc.py     tuning word calculator
+IntelHex.py     used to generate an Intel Hex
+                file for the sin() ROM
+SIN.ITX         sin() function IntelHex ROM image
+
